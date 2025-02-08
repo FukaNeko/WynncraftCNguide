@@ -14,6 +14,9 @@ icon: lightbulb
 网站首选IP：http://wynn.tqkhn.love/ (国内浏览效果更好)
 备用IP：http://wcg.tqkhn.love/ 
 
+:::warning
+部分攻略具有时效性，阅读时请注意服务器版本是否适配
+
 :::tip 如何使用本攻略？
 本部分主要是讲解各类机制
 
